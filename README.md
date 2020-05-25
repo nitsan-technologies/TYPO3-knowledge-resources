@@ -20,11 +20,13 @@ Anything missing or outdated? Feel free to [edit and make a pull request](https:
 - [TYPO3 CMS backend icons](https://typo3.github.io/TYPO3.Icons/index.html) - a full list of included backend icons.
 - [TYPO3 extensions on Packagist.com](https://packagist.org/?query=typo3-cms-extension&type=typo3-cms-extension) - based on type "typo3-cms-extension"
 - [TER = TYPO3 extension repository](https://extensions.typo3.org) - official extension repository
+- [30 Best Resources to Learn TYPO3 for Beginners] (https://t3terminal.com/blog/learn-typo3-resources/)
 
 
 ## Newsletters 
 
-- [TYPO3 Newsletter](https://jweiland.net/typo3-newsletter.html) from jweiland and the [archiv](https://jweiland.net/typo3-newsletter/typo3-newsletter-archiv.html) - approx. 6-12 newsletter per year 
+- [TYPO3 Newsletter](https://jweiland.net/typo3-newsletter.html) from jweiland and the [archiv](https://jweiland.net/typo3-newsletter/typo3-newsletter-archiv.html) - approx. 6-12 newsletter per year
+- [TYPO3 Newsletter] (https://t3terminal.com/subscribe-typo3-newsletter) from T3Terminal
 
 ## Meet other developers online
 
@@ -50,6 +52,7 @@ All blogs are active and updated periodically.
 - [SCRIPTING-BASE](https://scripting-base.de/blog.html)
 - [A TechBlog by Torben Hansen](https://www.derhansen.de/)
 - [Daniel Siepmann](https://daniel-siepmann.de/filtered-blog-posts/topic/typo3.html)
+- [T3Terminal] (https://t3terminal.com/blog/) TYPO3 Knowledge Hub from First-Ever TYPO3 Marketplace
 
 ## TYPO3 camps / conferences
 
@@ -115,3 +118,25 @@ You can find a list of [usergroups](https://typo3.org/community/meet/user-groups
 
 ### FLUID
 - [24 TIPS & TRICKS FOR FLUID](https://usetypo3.com/24-fluid-tips.html#c427)
+
+### TYPO3 Speed and Performance
+- [45+ Ultimate Ways to Speed Up Your TYPO3 Performance] (https://t3terminal.com/blog/typo3-speed-performance/)
+
+### TYPO3 SEO
+- [30 Ultimate TYPO3 SEO Tips & Techniques] (https://t3terminal.com/blog/typo3-seo/)
+
+### TYPO3 Testing
+- [15 Checklist Points For Your TYPO3 Testing] (https://t3terminal.com/blog/typo3-testing/)
+
+### TYPO3 Backup
+- [How to Backup TYPO3 Site: 7 Best TYPO3 Backup Extensions for 2020] (https://t3terminal.com/blog/typo3-backup/)
+
+### TYPO3 Composer
+- [TYPO3 + Satis + Composer + Private Package Server] (https://t3terminal.com/blog/satis-private-packages-composer/)
+
+### Misc
+- [Google Docs to TYPO3 - One-Click to Import and Publish] (https://t3terminal.com/blog/google-docs-typo3/)
+- [Create Your Free TYPO3 Blog] (https://t3terminal.com/blog/5-simple-steps-to-start-your-typo3-blog-download-now-free/)
+
+### TYPO3 v10 Features
+- [TYPO3 v10 Feature Series] https://t3terminal.com/blog/40-enhancement-in-typo3-v10-for-developers-series-5/
